@@ -3,6 +3,22 @@
     color: #1f8dd6;
 }
 
+.content-subhead.content-subhead--red {
+    color: red;
+}
+
+.content-subhead.content-subhead--green {
+    color: green;
+}
+
+.content-subhead.content-subhead--blue {
+    color: blue;
+}
+
+.content-subhead.content-subhead--blue2 {
+    color: #1f8dd6;
+}
+
 .content-head-ribbon {
   color: white !important;
 }
